@@ -1,0 +1,5 @@
+body { font-family: Arial; padding: 50px; background: #222; color: white; }
+#story { font-size: 24px; line-height: 40px; }
+#clock { display: inline-block; background: red; padding: 5px; cursor: pointer; margin-left: 10px; }
+.flash { background: yellow !important; }
+.fade { transition: opacity 7s; opacity: 0; }
